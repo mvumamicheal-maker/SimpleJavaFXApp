@@ -20,6 +20,6 @@ javafx {
 
 application {
     mainModule = 'com.example.hellofx'
-    mainClass = 'com.example.hellofx.Main'
+    mainClass = 'com.example.hellofx.CustomerManagerApp'
 }
 
